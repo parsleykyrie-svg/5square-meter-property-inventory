@@ -1,8 +1,0 @@
-[
- {"id":"DEMO-101","project":"Garden Quarter","city":"Tbilisi","district":"Saburtalo","area":68,"bedrooms":2,"price":102000,"status":"available"},
- {"id":"DEMO-102","project":"Garden Quarter","city":"Tbilisi","district":"Saburtalo","area":94,"bedrooms":3,"price":150400,"status":"reserved"},
- {"id":"DEMO-201","project":"River Courtyard","city":"Tbilisi","district":"Didi Dighomi","area":54,"bedrooms":1,"price":64800,"status":"available"},
- {"id":"DEMO-202","project":"River Courtyard","city":"Tbilisi","district":"Didi Dighomi","area":78,"bedrooms":2,"price":97500,"status":"sold"},
- {"id":"DEMO-301","project":"Coastal Gardens","city":"Batumi","district":"New Boulevard","area":42,"bedrooms":1,"price":67200,"status":"available"},
- {"id":"DEMO-302","project":"Coastal Gardens","city":"Batumi","district":"New Boulevard","area":76,"bedrooms":2,"price":129200,"status":"available"}
-]
